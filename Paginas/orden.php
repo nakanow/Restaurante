@@ -1,0 +1,15 @@
+<?php
+include("../vista/menu.php");
+?>
+<?php
+include("logo.php");
+?>
+<?php
+include("menu_comida.php");
+?>
+<?php
+include("../vista/footer.php");
+?>
+<?php
+include("../vista/contactos.php");
+?>
